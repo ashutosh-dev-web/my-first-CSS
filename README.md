@@ -1,4 +1,4 @@
-# 🇮🇳 Flag Design Using HTML & CSS
+# Flag Design Using HTML & CSS
 
 This is a simple front-end project where I created a basic flag layout using only **HTML and CSS**. The purpose of this project was to practice layout techniques, positioning, and CSS styling from scratch — without using any external libraries.
 
